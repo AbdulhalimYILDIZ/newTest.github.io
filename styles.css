@@ -11,7 +11,7 @@ button.tiklanabilir:hover {
     background-color: #ddd;
 }
 
-button.disabled2 {
+button.tiklanamaz {
     cursor: not-allowed;
     opacity: 0.5;
 }
